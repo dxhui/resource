@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 const config = {
-    inputDir: './theme5/r',         // 输入目录
-    outputDir: './theme5/r_100k',   // 输出目录
+    inputDir: './theme4/高清',         // 输入目录
+    outputDir: './theme4/r',   // 输出目录
     formats: ['.png', '.jpg', '.jpeg'],
     
     resizeWidth: 420,               // 目标100KB的尺寸
